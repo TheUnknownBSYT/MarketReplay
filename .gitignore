@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode build products and caches
+build/
+DerivedData/
+*.xcuserstate
+
+# Xcode per-user workspace and scheme settings
+**/xcuserdata/
+
+# Swift Package Manager build and resolved workspace state
+.build/
+.swiftpm/
+
+# Xcode and Swift generated files
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xccheckout
+*.xcscmblueprint
